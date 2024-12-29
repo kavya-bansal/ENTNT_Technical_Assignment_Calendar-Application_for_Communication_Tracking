@@ -10,6 +10,9 @@
 
 
 
+## contact : telegram -> @Coding_Gurl       , grp : https://t.me/Coders_Community_By_Kb
+
+
 Objective
 As a company, we aim to maintain strong professional relationships by keeping accurate records of our interactions with other organizations. The objective of this assignment is to develop a React-based Calendar Application that enables us to efficiently track communication with companies, ensuring follow-ups are timely and consistent. This tool will provide a centralized platform to log past interactions, plan future communications, and manage the frequency of engagement based on predefined schedules.
 The application will include:
