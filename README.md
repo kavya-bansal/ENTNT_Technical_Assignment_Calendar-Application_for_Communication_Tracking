@@ -1,7 +1,7 @@
 # Technical-Assignment-Calendar-Application-for-Communication-Tracking
 
-![image]( <img width="1468" alt="image" src="https://github.com/user-attachments/assets/029119a8-76b6-4c09-a66f-3213702a6161" />
-)
+ <img width="1468" alt="image" src="https://github.com/user-attachments/assets/029119a8-76b6-4c09-a66f-3213702a6161" />
+
 Objective
 As a company, we aim to maintain strong professional relationships by keeping accurate records of our interactions with other organizations. The objective of this assignment is to develop a React-based Calendar Application that enables us to efficiently track communication with companies, ensuring follow-ups are timely and consistent. This tool will provide a centralized platform to log past interactions, plan future communications, and manage the frequency of engagement based on predefined schedules.
 The application will include:
