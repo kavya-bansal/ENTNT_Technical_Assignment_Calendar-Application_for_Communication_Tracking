@@ -1,4 +1,4 @@
-# Technical-Assignment-Calendar-Application-for-Communication-Tracking
+#  ENTNT Technical Assignment : Calendar Application for Communication Tracking
 
  <img width="1468" alt="image" src="https://github.com/user-attachments/assets/029119a8-76b6-4c09-a66f-3213702a6161" />
  <img width="1469" alt="image" src="https://github.com/user-attachments/assets/5f7471a9-3811-4212-b9a0-587649f4eaac" />
@@ -14,7 +14,7 @@
 
 
 Objective
-As a company, we aim to maintain strong professional relationships by keeping accurate records of our interactions with other organizations. The objective of this assignment is to develop a React-based Calendar Application that enables us to efficiently track communication with companies, ensuring follow-ups are timely and consistent. This tool will provide a centralized platform to log past interactions, plan future communications, and manage the frequency of engagement based on predefined schedules.
+## As a company, we aim to maintain strong professional relationships by keeping accurate records of our interactions with other organizations. The objective of this assignment is to develop a React-based Calendar Application that enables us to efficiently track communication with companies, ensuring follow-ups are timely and consistent. This tool will provide a centralized platform to log past interactions, plan future communications, and manage the frequency of engagement based on predefined schedules.
 The application will include:
 An Admin Module for setting up companies and communication parameters.
 A User Module for visualizing, managing, and performing communication tasks.
