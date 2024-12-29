@@ -10,7 +10,7 @@
 
 
 
-## contact : telegram -> @Coding_Gurl       , grp : https://t.me/Coders_Community_By_Kb
+## contact : telegram -> https://t.me/Coding_Gurl    or  grp : https://t.me/Coders_Community_By_Kb
 
 
 Objective
